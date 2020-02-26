@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8"/>
-    <title>Meet the Cats</title>
+   <!-- <title>Meet the Cats</title>-->
     <linkhref="css/style.css"rel="stylesheet"/>
   </head>
 
