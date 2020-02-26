@@ -20,7 +20,7 @@
       </nav>
     </header>
     <main>
-      <img src="" alt="Zedo" />
+      <img src="zedo.jpg" alt="Zedo" />
       <ul>
         <li><strong>Owner of:</strong> Bryce</li>
         <li><strong>Type:</strong> Tuxedo</li>
