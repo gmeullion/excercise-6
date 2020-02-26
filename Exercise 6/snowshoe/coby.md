@@ -22,7 +22,7 @@
       </nav>
     </header>
    <main>
-      <img src="" alt="Coby" />
+      <img src="coby.jpg" alt="Coby" />
     <ul>
         <li><strong>Owner of:</strong> Kevin</li>
         <li><strong>Type:</strong> Snowshoe</li>
