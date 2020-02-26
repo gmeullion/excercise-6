@@ -28,7 +28,6 @@
         <li><strong>Type:</strong> Snowshoe</li>
         <li><strong>Favorite food:</strong> Lizards</li>
      </ul>
-      <img src="" alt="Coby"
    </main>
   </body>
 </html>
