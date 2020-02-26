@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>Meet the Cats | Coby</title>
+   <!-- <title>Meet the Cats | Coby</title>-->
   </head>
 
   <body>
